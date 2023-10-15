@@ -1,0 +1,12 @@
+{
+  "name": "greedy_bulk",
+  "packageManager": "yarn@3.6.4",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "workspaces": {
+    "packages": [
+      "package/*"
+    ]
+  }
+}
